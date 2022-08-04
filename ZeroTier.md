@@ -12,3 +12,4 @@
 
 # See:
  - [Understanding Different NAT Types and Hole-Punching](https://dh2i.com/kbs/kbs-2961448-understanding-different-nat-types-and-hole-punching/)
+ - [Network address translation - wikipedia](https://en.wikipedia.org/wiki/Network_address_translation)
