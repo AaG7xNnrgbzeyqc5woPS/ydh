@@ -8,7 +8,8 @@
  - [放弃moon节点，直接搭建Zerotier根服务器 ](https://post.smzdm.com/p/apxkx2m7/)
  - [远程办公：ZeroTier异地组网及私有Moon转发节点搭建](https://post.smzdm.com/p/adwrepgk/)
  - [zerotier翻牆](https://softwarebrother.com/entry/zerotier%E7%BF%BB%E7%89%86.html)
- - [用 ZeroTier 实现内网穿透](https://blog.quantumghost.dev/use-zerotier-for-remote-access.html)
+ - ❤️ [用 ZeroTier 实现内网穿透](https://blog.quantumghost.dev/use-zerotier-for-remote-access.html)
+ - [zerotier-nat.sh](https://gist.github.com/QuantumGhost/4b14369fd120d52c9afbc2081b62d336)
 
 # See:
  - [Understanding Different NAT Types and Hole-Punching](https://dh2i.com/kbs/kbs-2961448-understanding-different-nat-types-and-hole-punching/)
