@@ -29,4 +29,17 @@ if z=$(curl -s 'https://install.zerotier.com/' | gpg); then echo "$z" | sudo bas
 ```
 After using the script, use apt or yum to manage future updates to zerotier-one
 
+# Setup
+
+- Step 1
+Create a ZeroTier account to access your admin console and get a 16-digit network ID. Create as many networks as you like and each will be assigned a 16-digit network ID.
+
+- Step 2
+Download ZeroTier on any device to get a unique 10-digit node address and enter your 16-digit network ID into the join network field on the device to request access to your network.
+
+- Step 3
+Check the Auth checkbox on your admin console when your 10-digit node address presents itself.
+If a friend wants to join your network they can do so in the exact same way.
+
+
   
