@@ -17,7 +17,7 @@
  - [Why is symmetric NAT called "symmetric"?](https://networkengineering.stackexchange.com/questions/67218/why-is-symmetric-nat-called-symmetric)
 
 # See:
-  -[zerotier download](https://www.zerotier.com/download/)
+  - [zerotier download](https://www.zerotier.com/download/)
   
 # install 
 
