@@ -15,3 +15,18 @@
  - [Understanding Different NAT Types and Hole-Punching](https://dh2i.com/kbs/kbs-2961448-understanding-different-nat-types-and-hole-punching/)
  - [Network address translation - wikipedia](https://en.wikipedia.org/wiki/Network_address_translation)
  - [Why is symmetric NAT called "symmetric"?](https://networkengineering.stackexchange.com/questions/67218/why-is-symmetric-nat-called-symmetric)
+
+# See:
+  -[zerotier download](https://www.zerotier.com/download/)
+  
+# install 
+
+If you have GPG installed, a more secure option is available:
+
+```
+curl -s 'https://raw.githubusercontent.com/zerotier/ZeroTierOne/master/doc/contact%40zerotier.com.gpg' | gpg --import && \
+if z=$(curl -s 'https://install.zerotier.com/' | gpg); then echo "$z" | sudo bash; fi
+```
+After using the script, use apt or yum to manage future updates to zerotier-one
+
+  
