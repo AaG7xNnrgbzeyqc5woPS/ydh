@@ -18,6 +18,8 @@
 
 # See:
   - [zerotier download](https://www.zerotier.com/download/)
+  - [ZeroTier Knowledge Base](https://zerotier.atlassian.net/wiki/spaces/SD/overview)
+  - 
   
 # install 
 
