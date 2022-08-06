@@ -19,7 +19,7 @@
 # See:
   - [zerotier download](https://www.zerotier.com/download/)
   - [ZeroTier Knowledge Base](https://zerotier.atlassian.net/wiki/spaces/SD/overview)
-  - 
+  - [zerotier-cli](https://zerotier.atlassian.net/wiki/spaces/SD/pages/29065282/Command+Line+Interface+zerotier-cli)
   
 # install 
 
