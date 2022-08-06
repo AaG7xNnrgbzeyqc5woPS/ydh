@@ -20,6 +20,7 @@
   - [zerotier download](https://www.zerotier.com/download/)
   - [ZeroTier Knowledge Base](https://zerotier.atlassian.net/wiki/spaces/SD/overview)
   - [zerotier-cli](https://zerotier.atlassian.net/wiki/spaces/SD/pages/29065282/Command+Line+Interface+zerotier-cli)
+  - [Private Root Servers - a.k.a. Moons](https://docs.zerotier.com/zerotier/moons)
   
 # install 
 
