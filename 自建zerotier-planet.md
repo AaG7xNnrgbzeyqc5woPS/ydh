@@ -1,6 +1,7 @@
 # See:
 - [放弃moon节点，直接搭建Zerotier根服务器 ](https://post.smzdm.com/p/apxkx2m7/)
 - [一分钟自建zerotier-planet](https://github.com/Jonnyan404/zerotier-planet)
+- [一分钟自建zerotier-plant - Help](https://www.mrdoc.fun/doc/443/)
 - [ztncui-containerized](https://github.com/key-networks/ztncui-containerized)
 - [ztncui](https://key-networks.com/ztncui/)
 
