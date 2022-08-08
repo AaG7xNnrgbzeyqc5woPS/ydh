@@ -13,3 +13,6 @@
     另外:
     在国内可以大大提高转发性能
     提高隐私性
+# Tips
+ - 使用的命令跟 zerotier-one 一样,除了控制服务器(zerotier根服务器)是自建的
+ - linux下的节点命令是: zerotier-cli
