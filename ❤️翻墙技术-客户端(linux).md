@@ -216,7 +216,7 @@ john@john-TM1613:~/.trojan-go$
 
 
 # 4.0 客户端浏览器配置
- **浏览器统一使用 firefox，无论是 linux 还是 windows 操作系统 **
+ **浏览器统一使用 firefox，无论是 linux 还是 windows 操作系统**
  
  ## 4.1 firefox 安装插件 Proxy SwitchyOmega
  方法一，浏览器地址栏输入以下地址：
