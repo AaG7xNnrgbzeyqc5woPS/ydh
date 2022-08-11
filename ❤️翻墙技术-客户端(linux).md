@@ -87,6 +87,8 @@ docker-compose --version
 # 3 trojan-go client install
 - [ p4gefau1t/trojan-go ](https://github.com/p4gefau1t/trojan-go)
 - [BreakWall-Summary/2021.11/](https://github.com/AaG7xNnrgbzeyqc5woPS/BreakWall-Summary/tree/main/2021.11)
+
+
 ## 3.1 ❤️ 服务器端使用的是:  XRay_Trojan_Docker
  ssh 登录服务器，获取密码
  ```
@@ -216,7 +218,7 @@ john@john-TM1613:~/.trojan-go$
 
 
 # 4.0 客户端浏览器配置
- **浏览器统一使用 firefox，无论是 linux 还是 windows 操作系统**
+ ❤️ **浏览器统一使用 firefox，无论是 linux 还是 windows 操作系统**
  
  ## 4.1 firefox 安装插件 Proxy SwitchyOmega
  方法一，浏览器地址栏输入以下地址：
@@ -242,6 +244,7 @@ john@john-TM1613:~/.trojan-go$
   
 # 5.0 XRay_Trojan_Docker服务器，域名 w1.bigbang.monster
  - ❤️ 注意该服务器即将到期，失效！
+ - 
   ```
   john@john-TM1613:~$ ping w1.bigbang.monster
 PING w1.bigbang.monster (202.91.34.168) 56(84) bytes of data.
