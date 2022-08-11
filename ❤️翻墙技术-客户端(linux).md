@@ -33,10 +33,12 @@ See 'snap info docker' for additional versions.
 ```
 
 ## 1.2 选择apt安装
+
 ```
 sudo apt  install docker.io
 
 ```
+
 **注释**,第一次不成功,再安装一次就成功了。好像是网络无稳定，导致有些网站访问失败
 
 ## 1.3 upgrade 整个系统
@@ -44,9 +46,11 @@ sudo apt  install docker.io
 sudo apt update
 sudo apt upgrade
 ```
+
 **注释：**这一步可以先做一遍，更好！今天忘记做了
 
 ## 1.4 查看docker
+
 ```
 docker info
 sudo docker info
