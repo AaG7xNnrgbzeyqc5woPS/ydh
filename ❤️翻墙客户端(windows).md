@@ -8,3 +8,4 @@
 
 # See:
 - ❤️[linux_proxy](https://github.com/AaG7xNnrgbzeyqc5woPS/linux_help/tree/master/linux_proxy)
+- ❤️❤️❤️[set_proxy_http.sh](https://github.com/AaG7xNnrgbzeyqc5woPS/nixos_config/blob/master/set_proxy_http.sh#L4)
