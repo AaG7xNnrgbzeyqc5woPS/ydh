@@ -140,6 +140,20 @@ password:
 john@john-TM1613:~/.trojan-go$ 
 
  ```
+ ❤️获取配置文件路径，确认配置文件正确
+ ```
+ john@john-TM1613:~$ cd
+john@john-TM1613:~$ cd .trojan-go/
+john@john-TM1613:~/.trojan-go$ pwd
+/home/john/.trojan-go
+
+john@john-TM1613:~/.trojan-go$ ls -l
+total 4
+-rw-rw-r-- 1 john john 132 8月  10 15:50 config.yaml
+john@john-TM1613:~/.trojan-go$ cat config.yaml
+
+ ```
+ **在我的电脑是路径是：/home/john/.trojan-go **
  
  # 3.3 启动 docker 容器
  ```
@@ -151,6 +165,7 @@ john@john-TM1613:~/.trojan-go$
  p4gefau1t/trojan-go \
  /etc/trojan-go/config.yaml 
  ```
+ **注意 -V 参数 要用你电脑的实际路径替代 **
  
  # 3.4 调试 命令
  ```
