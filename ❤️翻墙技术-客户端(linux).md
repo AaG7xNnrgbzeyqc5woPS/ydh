@@ -153,7 +153,7 @@ total 4
 john@john-TM1613:~/.trojan-go$ cat config.yaml
 
  ```
- **在我的电脑是路径是：/home/john/.trojan-go **
+ **在我的电脑是路径是：/home/john/.trojan-go**
  
  # 3.3 启动 docker 容器
  ```
@@ -165,7 +165,7 @@ john@john-TM1613:~/.trojan-go$ cat config.yaml
  p4gefau1t/trojan-go \
  /etc/trojan-go/config.yaml 
  ```
- **注意 -V 参数 要用你电脑的实际路径替代 **
+ **注意 -V 参数 要用你电脑的实际路径替代**
  
  # 3.4 调试 命令
  ```
