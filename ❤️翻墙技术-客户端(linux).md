@@ -166,9 +166,9 @@ john@john-TM1613:~/.trojan-go$ cat config.yaml
  p4gefau1t/trojan-go \
  /etc/trojan-go/config.yaml 
  ```
- **注意 -V 参数 要用你电脑的实际路径替代**
- **启动参数 --restart 有以下几种，no, on-failure, always, unless-stopped**
- 如果容器启动时没有设置–restart参数，则通过下面命令进行更新：
+ - **注意 -V 参数 要用你电脑的实际路径替代**
+ - **启动参数 --restart 有以下几种，no, on-failure, always, unless-stopped**
+ - 如果容器启动时没有设置–restart参数，则通过下面命令进行更新：  
  ``` docker update --restart [container] ```
  
  # 3.4 调试 命令
