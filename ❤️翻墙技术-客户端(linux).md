@@ -161,6 +161,7 @@ john@john-TM1613:~/.trojan-go$ cat config.yaml
  --name trojan-go \
  -d \
  -v /home/john/.trojan-go:/etc/trojan-go \
+ --restart always \
  --network host \
  p4gefau1t/trojan-go \
  /etc/trojan-go/config.yaml 
